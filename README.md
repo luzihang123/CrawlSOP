@@ -31,7 +31,3 @@
 	
 	- 不确定因素：在不开发的时候，不知道反爬是什么，破解、绕过难度多大，开发时间无法评估
 - 法律风险：企业里，开发前需要经过法务审核
-
-## 备注
-- 文章格式和布局参考：[一人公司方法论]([https://github.com/easychen/one-person-businesses-methodology)
-
